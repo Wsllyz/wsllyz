@@ -1,5 +1,5 @@
-### Muito prazer, me chamo Weslley 👋
-- 🌱 Atualmente estudando Python
+### Hi! You can call me Weslley 👋
+- 🌱 Leaning Python
 
 ##
 
