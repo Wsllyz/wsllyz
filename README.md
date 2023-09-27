@@ -1,4 +1,5 @@
 ### Hi! You can call me Weslley 👋
+System development student at Senac College
 - 🌱 Leaning Python
 
 ##
