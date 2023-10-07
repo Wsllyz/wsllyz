@@ -1,10 +1,6 @@
-### Hi! You can call me Weslley 👋
-System development student at Senac College
-- 🌱 Leaning Python
+## Hi! You can call me Weslley 👋
+### System development student at [Senac College](https://faculdadesenacpe.edu.br/)
 
-##
+I'm a technical system developer certified by the State Technical School [Porto Digital](https://sisacad.educacao.pe.gov.br/sissel/seip/index.php?p=polo&id=446)
 
-<div style="display: inline_block"><br>
-	<img align="center" alt="Wes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-          
+Currently, I'm studying Machine Learning and Data Science with Python
